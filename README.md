@@ -8,4 +8,13 @@ TOCropViewController -> https://github.com/TimOliver/TOCropViewController | (Cre
 
 TOCropViewController is an open-source UIViewController subclass to crop out sections of UIImage objects, as well as perform basic rotations. It is excellent for things like editing profile pictures, or sharing parts of a photo online. It has been designed with the iOS Photos app editor in mind, and as such, behaves in a way that should already feel familiar to users of iOS.
 
+## Simulator & iPhone
+<p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/1.png" width="300" height="650"/></p>
+<p><img src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/2.png" width="300" height="650"/></p>
+<p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/3.png" width="300" height="650"/></p>
+<p><img src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/4.png" width="300" height="650"/></p>
+<p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/5.png" width="300" height="650"/></p>
+<p><img src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/6.png" width="300" height="650"/></p>
+<p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/7.png" width="300" height="650"/></p>
+
 
