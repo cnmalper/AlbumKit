@@ -25,7 +25,7 @@ TOCropViewController is an open-source UIViewController subclass to crop out sec
 <p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/3.png" width="300" height="650"/></p>
 <p><img src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/4.png" width="300" height="650"/></p>
 <p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/5.png" width="300" height="650"/></p>
-<p><img src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/6.png" width="300" height="650"/></p>
-<p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/7.png" width="300" height="650"/></p>
+<p><img src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/7.png" width="300" height="650"/></p>
+<p><img align="left" src="https://github.com/cnmalper/AlbumKit/blob/main/Contents/6.png" width="300" height="650"/></p>
 
 
